@@ -6,6 +6,29 @@ The project demonstrates a typical scRNA-seq workflow including data preprocessi
 
 ---
 
+## Project Structure
+
+neuronal-single-cell-scanpy/
+│
+├── notebooks/
+│ neuronal_analysis.ipynb
+│
+├── figures/
+│ umap_clusters.png
+│ umap_celltypes.png
+│ dotplot__marker_dotplot.png
+│ heatmap_marker_heatmap.png
+│
+├── data/
+│ neuron_10k_v3_filtered_feature_bc_matrix.h5
+│ README.md
+|
+├── README.md
+├── LICENSE
+└── .gitignore
+
+---
+
 ## Dataset
 
 The dataset used in this analysis is the **10k Mouse Brain Cells (v3 chemistry)** dataset from **10x Genomics**.
@@ -104,7 +127,9 @@ matplotlib
 
 Install dependencies:
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 ---
 
@@ -112,14 +137,15 @@ Install dependencies:
 
 Clone the repository:
 
-
+```
 git clone https://github.com/ibrahim101-cyber/neuronal-single-cell-scanpy.git
-
 cd neuronal-single-cell-scanpy
-
+```
 Then open the notebook:
 
+```
 jupyter notebook notebooks/neuronal_analysis.ipynb
+```
 
 Run the notebook from top to bottom to reproduce the analysis.
 
@@ -135,3 +161,8 @@ Run the notebook from top to bottom to reproduce the analysis.
 - Biological cell type annotation
 - Data visualization in Python
 - Reproducible computational workflows
+
+---
+## License
+
+This project is distributed under the MIT License.
