@@ -1,5 +1,7 @@
 # Neuronal Single-Cell RNA-seq Analysis with Scanpy
 
+![Annotated UMAP](figures/umap_celltypes.png)
+
 This repository contains a single-cell RNA sequencing (scRNA-seq) analysis pipeline for mouse neuronal cells using the Python package **Scanpy**.
 
 The project demonstrates a typical scRNA-seq workflow including data preprocessing, dimensionality reduction, clustering, marker gene identification, and biological cell-type annotation.
