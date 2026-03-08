@@ -8,6 +8,7 @@ The project demonstrates a typical scRNA-seq workflow including data preprocessi
 
 ## Project Structure
 
+```
 neuronal-single-cell-scanpy/
 │
 ├── notebooks/
@@ -26,7 +27,7 @@ neuronal-single-cell-scanpy/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
+```
 ---
 
 ## Dataset
