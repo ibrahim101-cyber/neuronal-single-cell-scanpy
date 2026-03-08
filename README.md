@@ -78,7 +78,7 @@ Clusters were annotated based on known marker genes.
 
 Cluster-specific marker genes highlight transcriptional differences between cell populations.
 
-![Marker dotplot](figures/dotplot_marker_dotplot.png)
+![Marker dotplot](figures/dotplot__marker_dotplot.png)
 
 ---
 
