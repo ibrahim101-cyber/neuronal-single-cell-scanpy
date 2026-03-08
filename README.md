@@ -93,19 +93,18 @@ Expression patterns of top marker genes across annotated cell types.
 ## Requirements
 
 Main Python packages used:
+
+
 scanpy
 anndata
 numpy
 pandas
 matplotlib
 
-Install with:
 
-pip install scanpy
+Install dependencies:
 
-or using conda:
-
-conda install -c conda-forge scanpy
+`pip install -r requirements.txt`
 
 ---
 
