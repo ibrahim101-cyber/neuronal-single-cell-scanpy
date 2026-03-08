@@ -125,3 +125,14 @@ jupyter notebook notebooks/neuronal_analysis.ipynb
 Run the notebook from top to bottom to reproduce the analysis.
 
 ---
+
+## Skills Demonstrated
+
+- Single-cell RNA-seq analysis
+- Data preprocessing and quality control
+- Dimensionality reduction (PCA, UMAP)
+- Graph-based clustering (Leiden)
+- Marker gene identification
+- Biological cell type annotation
+- Data visualization in Python
+- Reproducible computational workflows
